@@ -1,6 +1,6 @@
 
 
-const path = require('path');
+//const path = require('path');
 const fs = require('fs');
 
 function escribirArchivo(path, texto){  
@@ -11,4 +11,5 @@ module.exports = {
     escribirArchivo: escribirArchivo
   };
   
+
 
